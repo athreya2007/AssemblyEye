@@ -1,0 +1,30 @@
+ASSEMBLYEYE EVALUATION REPORT
+
+Image AUROC: 0.6064
+Pixel AUROC: 0.7517
+Accuracy: 0.4992
+Precision: 0.8462
+Defect Recall: 0.0683
+F1 Score: 0.1264
+Balanced Accuracy: 0.5271
+False Reject Rate: 0.0140
+
+Threshold: 0.510755
+Threshold quantile: 0.95
+
+Checkpoint size MB: 0.4790
+Latency ms: 18.96
+Throughput images/sec: 52.75
+
+CONFUSION MATRIX
+TN: 281
+FP: 4
+FN: 300
+TP: 22
+
+CATEGORY RECALL
+blue_hoop: 0.2000
+cardboard: 0.6000
+fastening: 0.0505
+multiple: 0.0909
+obstruction: 0.5000
